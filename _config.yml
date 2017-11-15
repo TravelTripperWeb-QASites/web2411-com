@@ -14,5 +14,4 @@ exclude:
 
 
 default_lang: 'en'
-
 languages: ['en']
