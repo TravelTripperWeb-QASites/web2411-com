@@ -9,8 +9,10 @@ exclude:
 - sitemap.json
 - media.json
 - old_media.json
+
 - models.json
 
 
 default_lang: 'en'
+
 languages: ['en']
